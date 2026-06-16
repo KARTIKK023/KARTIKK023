@@ -17,19 +17,3 @@
 </div>
 
 ---
-
-</div>
-
----
-
-
-* 🖧 Interested in Networking & System Design
-* 🌐 Exploring Three.js, GSAP and Interactive Web Experiences
-* 🤖 Learning MCP Servers, AI Integrations & Automation with n8n
-* 📚 Practicing DSA and Backend Engineering
-
----
-
-
-
-
