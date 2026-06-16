@@ -1,6 +1,6 @@
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 Analytics
 
 <div align="center">
 
@@ -22,30 +22,7 @@
 
 ---
 
-## 🚀 About Me
 
-```yaml
-Name: Kartik Kumar
-Role: Full Stack Developer
-
-Current Focus:
-  - AWS Cloud
-  - DevOps
-  - Docker & Kubernetes
-  - Data Structures & Algorithms
-  - Scalable Web Applications
-
-Interests:
-  - Cloud Computing
-  - Backend Engineering
-  - Networking Fundamentals
-  - System Design
-  - AI Integrations
-```
-
-* 💻 Full Stack Developer with a focus on MERN Stack
-* ☁️ Learning AWS Cloud & DevOps
-* ⚙️ Working with Docker, Kubernetes, CI/CD & Cloud Deployments
 * 🖧 Interested in Networking & System Design
 * 🌐 Exploring Three.js, GSAP and Interactive Web Experiences
 * 🤖 Learning MCP Servers, AI Integrations & Automation with n8n
